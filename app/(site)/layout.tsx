@@ -7,9 +7,9 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
     <>
       <Header />
       <PageTransition>
-        <main className="min-h-screen pt-16">
+        <div className="min-h-screen pt-16">
           {children}
-        </main>
+        </div>
       </PageTransition>
       <Footer />
     </>
