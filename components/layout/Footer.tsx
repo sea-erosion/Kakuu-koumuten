@@ -18,9 +18,9 @@ export default function Footer() {
         <div>
           <p className="font-serif text-xl tracking-widest text-earth-50 mb-4">架空工務店</p>
           <address className="not-italic text-sm text-earth-300 leading-relaxed space-y-1">
-            <p>〒000-0000</p>
+            <p>〒879-0007</p>
             <p>大分県架空市境界町1-2-3</p>
-            <p className="mt-2">TEL: 00-0000-0000</p>
+            <p className="mt-2">TEL: 03-1111-1234</p>
             <p>営業時間: 平日 9:00〜18:00</p>
           </address>
         </div>

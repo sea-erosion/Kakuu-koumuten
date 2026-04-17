@@ -76,7 +76,7 @@ export default function ContactPage() {
               type="tel"
               autoComplete="tel"
               className="w-full border border-earth-200 bg-white px-4 py-3 text-sm text-earth-800 placeholder:text-earth-300 focus:outline-none focus:border-earth-500 transition-colors"
-              placeholder="00-0000-0000"
+              placeholder="03-1111-1234"
             />
           </div>
 
@@ -154,7 +154,7 @@ export default function ContactPage() {
             ご返信まで通常2営業日をいただいております。お急ぎの場合はお電話でお問い合わせください。
           </p>
           <p className="text-xs text-earth-400">
-            <span className="font-serif">TEL:</span> 00-0000-0000（平日 9:00〜18:00）
+            <span className="font-serif">TEL:</span> 03-1111-1234（平日 9:00〜18:00）
           </p>
         </div>
       </div>
