@@ -58,7 +58,7 @@ export default function AboutPage() {
             この地に根ざして30年。これからも変わらず、<br />
             お客様とともに歩んでまいります。
           </p>
-          <p className="mt-6 text-earth-400 text-xs tracking-widest">代表取締役　架空 建二</p>
+          <p className="mt-6 text-earth-400 text-xs tracking-widest">代表取締役 小布結 志文</p>
         </div>
       </section>
 
