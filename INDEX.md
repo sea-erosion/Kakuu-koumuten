@@ -1,34 +1,19 @@
 # Project Index
 
-## Project Overview
-This project, Kaku-koumuten, focuses on [brief description of the project]. It aims to [mention the main goals or missions of the project].
+## 1. Introduction
+This project focuses on innovative solutions for urban development and environmental sustainability.
 
-## Technology Stack
-- **Programming Languages**: [list of languages used]
-- **Frameworks**: [list of frameworks]
-- **Databases**: [list of databases]
-- **Other Tools**: [any other technologies used]
+## 2. Key Features
+- **Sustainable materials**: Utilize eco-friendly building materials.
+- **Energy efficiency**: Implement energy-saving technologies.
 
-## Directory Structure
-```
-/
-|-- src/            # Source code
-|-- assets/         # Project assets (images, etc.)
-|-- tests/          # Unit and integration tests
-|-- docs/           # Documentation files
-|-- INDEX.md        # This project index file
-``` 
+## 3. Project Timeline
+- Phase 1: Research and Development (Q1 2026)
+- Phase 2: Implementation (Q2 2026)
 
-## Setup Instructions
-1. Clone the repository: `git clone https://github.com/sea-erosion/Kaku-koumuten.git`
-2. Navigate to the project directory: `cd Kaku-koumuten`
-3. Install dependencies: `npm install` or `pip install -r requirements.txt`
-4. Run the project: `npm start` or `python main.py`
+## 4. Team Members
+- Alice Smith - Project Manager
+- Bob Johnson - Lead Architect
 
-## ARG Game Information
-- **Game Title**: [Game title]
-- **Game Description**: [Brief description of the ARG game]
-- **Gameplay Mechanics**: [Overview of gameplay mechanics]
-- **Additional Resources**: [links or references to game resources]
-
----
+## 5. Contact Information
+For more information, reach out to us at info@kakukoumuten.com
