@@ -584,13 +584,14 @@ export function SCPLog({ label, type, meta, content }: SCPLogEntry) {
     </div>
   )
 }
+import React from "react";
 
 /** ダイアログ行（インタビュー用） */
 export function DialogLine({
   speaker,
   children,
 }: {
-  speaker: string
+  speaker: React.ReactNode
   children: React.ReactNode
 }) {
   return (
@@ -600,7 +601,6 @@ export function DialogLine({
     </div>
   )
 }
-
 /** ダイアログブロック */
 export function Dialog({ children }: { children: React.ReactNode }) {
   return <div className="scp-dialog">{children}</div>
